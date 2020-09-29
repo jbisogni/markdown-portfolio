@@ -1,1 +1,1 @@
-([PROFILE] (https://github.com/jbisogni))
+[PROFILE] (https://github.com/jbisogni)
